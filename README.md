@@ -7,7 +7,8 @@ Join the Academo Community, a revolutionary platform designed to redefine the co
 
 # DashBoard
 
-![alt text](https://github.com/Neel123priyansh/Academo/blob/main/img/Screenshot%202025-01-23%152729.png/?raw=true)
+![alt text](https://github.com/Neel123priyansh/Academo/blob/main/img/Screenshot%202025-01-23%20152729.png/?raw=true)
+
 
 
 
